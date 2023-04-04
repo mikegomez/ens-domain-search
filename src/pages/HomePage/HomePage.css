@@ -1,0 +1,13 @@
+.home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .home-page h1 {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+  }
+  
